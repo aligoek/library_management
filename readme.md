@@ -9,8 +9,6 @@ This is a C implementation of a Library Management System. It manages books, aut
 * Student Management: Add, delete, update, and print students. Find students by ID or name. Track penalty days.
 * Book Loan Management: Record loans/returns, print loans (including overdue), check return status, get loan duration/count.
 * Book-Author Linking: Manage and print book-author relationships.
-* Data Persistence: Data is stored in CSV files.
-* Error Handling: Includes error handling.
 
 
 
